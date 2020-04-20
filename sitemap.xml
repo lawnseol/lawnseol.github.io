@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>http://www.chizstudio.com/post-sitemap.xml</loc>
+        <loc>https://lawnseol.github.io/post-sitemap.xml</loc>
         <lastmod>2020-04-20T12:47:48.217Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.chizstudio.com/category-sitemap.xml</loc>
+        <loc>https://lawnseol.github.io/category-sitemap.xml</loc>
         <lastmod>2020-04-20T12:47:48.217Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.chizstudio.com/tag-sitemap.xml</loc>
+        <loc>https://lawnseol.github.io/tag-sitemap.xml</loc>
         <lastmod>2020-04-20T12:47:48.217Z</lastmod>
     </sitemap>
 
